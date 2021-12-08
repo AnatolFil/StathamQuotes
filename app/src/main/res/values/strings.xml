@@ -3,7 +3,7 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="developers">Филатов А.В. \n Джейсон Стетхем</string>
-    <string name="visit_site">Наша сайт</string>
+    <string name="visit_site">Наш сайт</string>
     <string name="quotes_title_menu">Цитаты</string>
     <string name="about_title_menu">Инфо</string>
 </resources>
